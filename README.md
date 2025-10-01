@@ -19,7 +19,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-If you can't install `torch`/`transformers`, remove them from `requirements.txt`. The app will still work using the simple rule-based fallback.
 
 ## What is included
 - `app.py` — Streamlit demo
